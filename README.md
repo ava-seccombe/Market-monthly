@@ -4,7 +4,7 @@
 A monthly report on the financial market largely focusing on tech equities including tech companies such as Nvidia and TSM whilst also covering major market shifts.
 
 ## Reports:
-June 2026 will be published on the 30th
+July 2026 report will be published on the 15th
 <br>
 Reports will be published on the 30th or 31st of each month
 
@@ -20,3 +20,6 @@ Major macro events
 <br>
 A new economic concept will also be explained each month 
 
+## Research Papers:
+
+Any research papers that I write will be attatched here, I am currently working on a research paper on trading algorithims.
