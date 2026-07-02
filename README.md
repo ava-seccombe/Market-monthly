@@ -1,7 +1,7 @@
 # Market-monthly
 
 ## About
-A monthly report on the financial market largely focusing on tech equities including tech companies such as Nvidia and TSM whilst also covering major market shifts.
+Market Monthly is an independent student publication analysing global financial markets, with a particular focus on technology equities, macroeconomic developments and quantitative finance. Monthly reports examine market performance, major economic events and investment themes, alongside longer-form research papers on finance and financial technology.
 
 ## Reports:
 July 2026 report will be published on the 15th
